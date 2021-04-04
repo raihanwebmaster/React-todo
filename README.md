@@ -1,4 +1,4 @@
-## React-Todo-List-app
+# React-Todo-List-app
 #### simple react application where user can make his daily task list.
 
 
